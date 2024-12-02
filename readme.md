@@ -47,3 +47,4 @@ This module is going to create the following resources. for HA we are going to g
 * public_subnet_ids: list of 2 public subnet ids created
 * private_subnet_ids: list of 2 private subnet ids created
 * database_subnet_ids: list of 2 database subnet ids created
+#
